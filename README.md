@@ -1,6 +1,6 @@
-## Wireshark-Dissector-Project
+# Wireshark-Dissector-Project
 
-# Lua dissector
+## Lua dissector
 DISCLAIMER: Tested only for Wireshark version 2.6.10
 
 The plugins folder for wireshark can be located by the following steps:
@@ -13,7 +13,7 @@ The plugins folder for wireshark can be located by the following steps:
 Now, move "capstone.lua" into the epan/ directory.
 Then, relaunch Wireshark for it to be fully added to the program.
 
-# Java UDP server & client
+## Java UDP server & client
 Need to have Java installed on your machine.
 Navigate to directory in terminal.
 Run commands:
